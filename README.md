@@ -130,7 +130,7 @@ The dashboard allows dynamic exploration using filters such as:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard-preview.png)
 
 ---
 
